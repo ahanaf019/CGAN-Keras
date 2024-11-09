@@ -1,0 +1,5 @@
+digitGAN
+*.keras
+__pycache__
+output-*.png
+test.ipynb
